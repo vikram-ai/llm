@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+accelerate 
+bitsandbytes 
+torch 
+transformers 
+scipy
